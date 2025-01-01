@@ -26,12 +26,12 @@ I hope my projects will be useful and inspire you to do something new. 🌟
 ### 🏆 My Stats :chart_with_upwards_trend:
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true" width="70%">
+    <img src="https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true" width="60%">
   </a>
 </div>
 
-<div>
-  <img src="https://www.codewars.com/users/Pvel33/badges/micro" alt="Codewars Badge" width="50%"/>
+<div align="center">
+  <img src="https://www.codewars.com/users/Pvel33/badges/micro" alt="Codewars Badge" width="25%"/>
 </div>
 
 ---
