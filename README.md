@@ -31,7 +31,7 @@ I hope my projects will be useful and inspire you to do something new. 🌟
 </div>
 
 <div>
-  <img src="https://www.codewars.com/users/Pvel33/badges/micro" alt="Codewars Badge"/>
+  <img src="https://www.codewars.com/users/Pvel33/badges/micro" alt="Codewars Badge" width="50%"/>
 </div>
 
 ---
