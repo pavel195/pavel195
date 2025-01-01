@@ -28,6 +28,6 @@ I hope my projects will be useful and inspire you to do something new. 🌟
 
 ---
 
-### 📫 Contact Me :mailbox_with_mail:
+### Contact Me :mailbox_with_mail:
 - **Email:** pac.2004@yandex.ru ✉️  
 - **Telegram:** [@YungTruppa](https://t.me/YungTruppa) 📱
