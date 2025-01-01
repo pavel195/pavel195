@@ -20,8 +20,8 @@ Hello, fellows! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHe
 
 
 ### 🏆 My stats:
-![codewars](https://www.codewars.com/users/Pvel33/badges/large)
-[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel195)](https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true)
+[![codewars](https://www.codewars.com/users/Pvel33/badges/large)]
+[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel195)](https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true)]
 ## 📫 Contact me on with ur ideas!
 - **Email:** pac.2004@yandex.ru
 - **Telegram:** [@YungTruppa](https://t.me/YungTruppa)
