@@ -17,6 +17,6 @@ Hello, fellows! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHe
 
 
 ### 🏆 My stats:
-[![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ckm45k)](https://github-readme-stats.vercel.app/api?username=bl4ckm45k&show_icons=true)
+[![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel195)](https://github-readme-stats.vercel.app/api?username=pavel195&show_icons=true)
 - **Email:** pac.2004@yandex.ru
 - **Telegram:** [@YungTruppa](https://t.me/YungTruppa)
