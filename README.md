@@ -29,9 +29,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://www.codewars.com/users/Pvel33/badges/micro" alt="Codewars Badge" width="25%"/>
-</div>
+
 
 ---
 
